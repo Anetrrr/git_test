@@ -1,2 +1,2 @@
 # git_test
-Odin Projects
+Odin Projects - Working projects from the Odin Project curriculum
